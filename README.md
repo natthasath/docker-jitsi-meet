@@ -1,6 +1,6 @@
 # 🎉 Docker Jitsi Meet
 
-Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+Jitsi Meet is an open-source video conferencing software that facilitates easy setup and joining of video meetings and webinars, runs on any device and supports web, mobile and desktop platforms.
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
