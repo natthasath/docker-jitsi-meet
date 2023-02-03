@@ -6,7 +6,7 @@ Jitsi Meet is an open-source video conferencing software that facilitates easy s
 ![rating](https://img.shields.io/badge/rating-★★★★★-yellow)
 ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
 
-### 🥈 Run
+### 🏆 Run
 
 - [http://localhost:8000/](http://localhost:8000/) username : `admin` password : `admin`
 
